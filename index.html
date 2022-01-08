@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/modal.css">
+
+    <!-- Scripts -->
+    <script src="js/main.js" defer></script>
+
+    <title>Modal Box</title>
+</head>
+<body class="modal">
+    <section class="section">
+        <div class="wrapper" id="wrapper">
+            <div class="photo-wrapper">
+                <img src="photo.jpg" class="photo" id="photo">
+            </div>
+            <span class="name" id="name">Filipe Deschamps</span>
+            <span class="whoami" id="whoami">Programmer & Content Creator</span>
+            <button class="hire-me button" id="hireMeButton"><i class='bx bxs-briefcase-alt-2'></i> Hire Me</button>
+        </div>
+
+        <div class="wrapper" id="wrapper">
+            <div class="photo-wrapper">
+                <img src="photo2.jpg" class="photo" id="photo">
+            </div>
+            <span class="name" id="name">Mayk Brito</span>
+            <span class="whoami" id="whoami">Programmer & Educator</span>
+            <button class="hire-me button" id="hireMeButton"><i class='bx bxs-briefcase-alt-2'></i> Hire Me</button>
+        </div>
+
+        <div class="wrapper" id="wrapper">
+            <div class="photo-wrapper">
+                <img src="photo3.jpg" class="photo" id="photo">
+            </div>
+            <span class="name" id="name">Diego Fernades</span>
+            <span class="whoami" id="whoami">Programmer & Educator</span>
+            <button class="hire-me button" id="hireMeButton"><i class='bx bxs-briefcase-alt-2'></i> Hire Me</button>
+        </div>
+    </section>
+
+    <div class="dark-background"></div>
+
+    <div class="modal-wrapper">
+        <i class='bx bx-x close-modal' id="closeModal"></i>
+        <header class="header">
+            <img src="photo.jpg" class="photo" id="photo">
+            <div class="name-whoami">
+                <span class="name">Filipe Deschamps</span>
+                <span class="whoami">Programmer & Content Creator</span>
+            </div>
+        </header>
+        <textarea placeholder="Enter your message" class="message-area" id="messageArea"></textarea>
+        <footer class="footer">
+            <button class="cancel button" id="cancel">Cancel</button>
+            <input class="send button" type="submit" value="Send">
+        </footer>
+    </div>
+</body>
+</html>
