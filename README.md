@@ -5,12 +5,12 @@ A ideia surgiu do canal <b>CodingLab</b>. Pesquisado pelo canal dele, o vídeo m
 
 ---
 ## Objetivos
-:heavy_check_mark: Torna o projeto <b><u>responsivo</u></b>. 
-:heavy_division_sign: Colocar <b><u>interaçao</u></b> em cada elemento que em um projeto real deveria ter interaçao
-:heavy_check_mark: Iniciar o projeto executando o conceito de <b><u>Mobile First</b></u>
-:x: Em um popup modal, ao clicar em "Hire Me", esse <b><u>popup deve ter o nome, a descriçao e foto do card respectivo</b></u>.
-:x: Indepedente da posiçao da barra de rolagem, o Popup deve <b><u>estar sempre centralizado o fundo escuro</b></u>.
-:x: A borda colorida ao redor da foto no Card deveria ter a <u><b>cor de acordo com a cor dominante</u></b> na foto da pessoa.
+:heavy_check_mark: Torna o projeto <b><u>responsivo</u></b>. <br>
+:heavy_division_sign: Colocar <b><u>interaçao</u></b> em cada elemento que em um projeto real deveria ter interaçao <br>
+:heavy_check_mark: Iniciar o projeto executando o conceito de <b><u>Mobile First</b></u> <br>
+:x: Em um popup modal, ao clicar em "Hire Me", esse <b><u>popup deve ter o nome, a descriçao e foto do card respectivo</b></u>. <br>
+:x: Indepedente da posiçao da barra de rolagem, o Popup deve <b><u>estar sempre centralizado o fundo escuro</b></u>. <br>
+:x: A borda colorida ao redor da foto no Card deveria ter a <u><b>cor de acordo com a cor dominante</u></b> na foto da pessoa. <br>
 
 ---
 ## O que foi usado
