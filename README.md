@@ -1,5 +1,7 @@
 # Popup modal Animado
 
+<img src="https://media.giphy.com/media/EAAP3P9AkDloNLlTrn/giphy.gif" />
+
 ## Ideia Inicial
 A ideia surgiu do canal <b>CodingLab</b>. Pesquisado pelo canal dele, o vídeo mais recente era sobre uma pop-up modal animado. Vendo como era, resolvi começar a desenhar toda a ideia do vídeo antes de assistir o vídeo.
 
